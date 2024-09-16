@@ -1,6 +1,8 @@
 import "./App.css";
 
 function App() {
+  console.log("Testing Git Exercise");
+
   return (
     <div>
       <h1>Git Exercise</h1>
