@@ -1,6 +1,7 @@
 import "./App.css";
 
 function App() {
+  console.log("Hello, I am Pritul Gohil!");
   return (
     <div>
       <h1>Git Exercise</h1>
