@@ -5,7 +5,8 @@ function App() {
     <div>
       <h1>Git Exercise</h1>
       <h3>Contributors</h3>
-      <p>Nolan Chan</p>
+      <p>Adhitya Raina</p>
+      <p>Toronto, Ontario</p>
     </div>
   );
 }
